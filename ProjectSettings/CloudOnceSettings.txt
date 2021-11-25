@@ -1,0 +1,18 @@
+{
+	"AchievementIDs":[],
+	"LeaderboardIDs":[
+		{
+			"InternalID":"MyGameHighScore",
+			"AppleID":"com.BobaSlurp.LeaderBoard",
+			"GoogleID":"CgkIwJOw0akWEAIQAA"
+		}
+	],
+	"CloudVariables":[],
+	"AppleSupported":true,
+	"GoogleSupported":true,
+	"GoogleAppID":"767090756032",
+	"GoogleSetupRun":true,
+	"DebugModeEnabled":false,
+	"Version":"2.7.4",
+	"SettingsLocation":"0"
+}
